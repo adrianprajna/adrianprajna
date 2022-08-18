@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Adrian
 
 🔭 I’m currently working at Bina Nusantara University as **Subject Coordinator**.\
-🌱 I’m currently learning *Back-End Development*.\
+🌱 I’m currently learning *Web Development*.\
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adrianprajna/) or [Email](mailto:concepstaradrian@gmail.com)
 
 ### Github Statistic
